@@ -1,2 +1,11 @@
-# Movie-Box-Office-Predictor
-Contains project for predicting movie box offices based on inputted features. 
+# Movie Box Office Predictor
+
+## Overview
+Predicts box office performance using ML.
+
+## Features
+- Uses features like budget, genre, franchise status
+- Regression model built with sklearn
+
+## Tech Stack
+Python, pandas, scikit-learn
